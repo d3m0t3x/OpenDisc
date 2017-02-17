@@ -1,0 +1,13 @@
+.discussions{
+	margin-top: 4em;
+}
+.green{
+	color: #4A9532;
+}
+.green:hover{
+	text-decoration: none;
+}
+.voteup{
+	font-size: 18px;
+	line-height: 1.33;
+}
